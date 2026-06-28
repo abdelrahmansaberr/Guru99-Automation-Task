@@ -1,0 +1,1 @@
+{"uuid":"6945598a-79f7-4241-9903-4b50ddda2e9b","name":"runScenario","children":["ff2720d9-c5b1-4e12-923a-49faede0101d","21ece51e-333f-4f20-b917-4c7592f36cc2"],"befores":[{"name":"scenarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1782617935547,"stop":1782617935548}],"afters":[],"start":1782617935547,"stop":1782617935731}
