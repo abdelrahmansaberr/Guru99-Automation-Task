@@ -116,8 +116,4 @@ public class TestSteps {
         }
     }
 
-    @And("scroll down the page")
-    public void scrollDownThePage() {
-
-    }
 }
